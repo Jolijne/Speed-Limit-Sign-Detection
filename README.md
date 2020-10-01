@@ -4,10 +4,10 @@ Using python to create a system that can detect speed limit signs and identify t
 Ritsumeikan University PBL: E-Society Lab Year 3
 
 Python code with:
-	- OpenCV
-	- pytesseract
-	- tesseract library for character recognition (Speed Limit Number)
-	- applying Optical Character Recognition (OCR)
+1. OpenCV
+2. pytesseract
+3. tesseract library for character recognition (Speed Limit Number)
+4. applying Optical Character Recognition (OCR)
   
 The Optical Character Recognition (OCR) is not perfect in this code. 
 The speed limit detection works fine but the speed limit number recognition will only work under suitable conditions of quality image, proper lightning ...etc. 
